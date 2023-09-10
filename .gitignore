@@ -6,3 +6,4 @@ fly.toml
 Dockerfile
 .dockerignore
 .DS_Store
+build
