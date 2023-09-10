@@ -5,3 +5,4 @@ DS_Store
 fly.toml
 Dockerfile
 .dockerignore
+.DS_Store
